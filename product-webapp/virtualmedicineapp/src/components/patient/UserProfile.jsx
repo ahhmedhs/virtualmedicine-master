@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 
-const host = 'http://13.250.112.182 :8083'
+const host = 'http://13.250.112.182 :8080'
 
 function UserProfile() {
   let [userInfo, setUserInfo] = useState({});
