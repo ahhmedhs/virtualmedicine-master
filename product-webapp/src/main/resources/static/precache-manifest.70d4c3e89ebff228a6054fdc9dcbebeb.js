@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/drag-horizontal.973a80a5.svg"
   },
   {
-    "revision": "c26738175038e7237847",
+    "revision": "dbf0d7b68c46b234e04b",
     "url": "/static/css/main.b4ab22c0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/static/js/1.25f4a4f5.chunk.js"
   },
   {
-    "revision": "34bd6069c9f08bb444c86b8d099a000e",
-    "url": "/static/media/menu-down.34bd6069.svg"
+    "revision": "3e1b8ebc2e651ee7eb5f132d37e64da2",
+    "url": "/static/media/agenda-calendar.3e1b8ebc.svg"
   },
   {
     "revision": "cc215d4461c9610857e7",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/pulmonology.7a46f992.svg"
   },
   {
-    "revision": "c26738175038e7237847",
-    "url": "/static/js/main.c2673817.chunk.js"
+    "revision": "dbf0d7b68c46b234e04b",
+    "url": "/static/js/main.dbf0d7b6.chunk.js"
   },
   {
     "revision": "3e1b8ebc2e651ee7eb5f132d37e64da2",
@@ -80,15 +80,15 @@ self.__precacheManifest = [
     "url": "/static/media/time.0e3f3bcf.svg"
   },
   {
-    "revision": "3e1b8ebc2e651ee7eb5f132d37e64da2",
-    "url": "/static/media/agenda-calendar.3e1b8ebc.svg"
+    "revision": "34bd6069c9f08bb444c86b8d099a000e",
+    "url": "/static/media/menu-down.34bd6069.svg"
   },
   {
     "revision": "cc215d4461c9610857e7",
     "url": "/static/css/2.48efca71.chunk.css"
   },
   {
-    "revision": "8ed58cb921f8ffcc260d57429b5d3573",
+    "revision": "4f4528235e0e3164546adfa597ceea8e",
     "url": "/index.html"
   }
 ];
