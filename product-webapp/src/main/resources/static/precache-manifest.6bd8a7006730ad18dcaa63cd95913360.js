@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/static/js/1.25f4a4f5.chunk.js"
   },
   {
-    "revision": "3e1b8ebc2e651ee7eb5f132d37e64da2",
-    "url": "/static/media/agenda-calendar.3e1b8ebc.svg"
+    "revision": "34bd6069c9f08bb444c86b8d099a000e",
+    "url": "/static/media/menu-down.34bd6069.svg"
   },
   {
     "revision": "cc215d4461c9610857e7",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/static/media/drag-vertical.028a39de.svg"
   },
   {
-    "revision": "8da0021280d797b4dc7a9a9ae87bffb8",
-    "url": "/static/media/arrow_right.8da00212.svg"
-  },
-  {
     "revision": "005fa25d024472f624c4971d35061e63",
     "url": "/static/media/arrow_left.005fa25d.svg"
+  },
+  {
+    "revision": "8da0021280d797b4dc7a9a9ae87bffb8",
+    "url": "/static/media/arrow_right.8da00212.svg"
   },
   {
     "revision": "628b6dea0dc1375bce97bd1f78b5ef72",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/static/media/time.0e3f3bcf.svg"
   },
   {
-    "revision": "34bd6069c9f08bb444c86b8d099a000e",
-    "url": "/static/media/menu-down.34bd6069.svg"
+    "revision": "3e1b8ebc2e651ee7eb5f132d37e64da2",
+    "url": "/static/media/agenda-calendar.3e1b8ebc.svg"
   },
   {
     "revision": "cc215d4461c9610857e7",
