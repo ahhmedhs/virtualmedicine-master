@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "973a80a57350413e3569d2beee7c8fcd",
-    "url": "/static/media/drag-horizontal.973a80a5.svg"
+    "revision": "3e1b8ebc2e651ee7eb5f132d37e64da2",
+    "url": "/static/media/calendar.3e1b8ebc.svg"
   },
   {
-    "revision": "dbf0d7b68c46b234e04b",
+    "revision": "2507fbee4775017b220f",
     "url": "/static/css/main.b4ab22c0.chunk.css"
   },
   {
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/static/media/pulmonology.7a46f992.svg"
   },
   {
-    "revision": "dbf0d7b68c46b234e04b",
-    "url": "/static/js/main.dbf0d7b6.chunk.js"
+    "revision": "2507fbee4775017b220f",
+    "url": "/static/js/main.2507fbee.chunk.js"
   },
   {
-    "revision": "3e1b8ebc2e651ee7eb5f132d37e64da2",
-    "url": "/static/media/calendar.3e1b8ebc.svg"
+    "revision": "973a80a57350413e3569d2beee7c8fcd",
+    "url": "/static/media/drag-horizontal.973a80a5.svg"
   },
   {
     "revision": "028a39de72af7c3d50edfffa6eaacbac",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.48efca71.chunk.css"
   },
   {
-    "revision": "4f4528235e0e3164546adfa597ceea8e",
+    "revision": "e07887897549b1b7622884432e0b6c72",
     "url": "/index.html"
   }
 ];
